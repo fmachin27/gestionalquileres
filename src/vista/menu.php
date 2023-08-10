@@ -3,4 +3,6 @@
   <a href="index.php?c=persona&m=listar">Listar Personas</a>
   <a href="index.php?c=producto&m=listar">Listar Productos</a>
   <a href="index.php?c=producto&m=nuevo">Nuevo producto</a>
+  <a href="index.php?c=casa&m=nuevo">Nuevo Casa</a>
+
 </nav>
