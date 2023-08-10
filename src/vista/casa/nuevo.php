@@ -20,8 +20,9 @@
     <input type="text" value="numero" name="numero">
     </label>
     <label for="calle">calle
-      <input type="text" value="calle" name="calle">
+      <input type="text" value="" name="calle">
     </label>
+    <button type="submit" name="enviar">Enviar</button>
   </form>
 
 </body>
